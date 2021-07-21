@@ -1,6 +1,6 @@
 {
   "CamManager": {
-    "STREAM_URLS": ["videos/video3.wmv", "videos/video2.wmv"]
+    "STREAM_URLS": ["videos/video1.mp4", "videos/video2.wmv"]
   },
   "BUFFER_BEFORE_REQUEST": 0.5,
   "USE_TRASH_DETECTION": true,
